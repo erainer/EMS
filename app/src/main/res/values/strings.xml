@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EMS</string>
+    <string name="information">Personal Information</string>
+    <string name="name">Name: Emily Rainer</string>
+    <string name="birthday">Birthday: June 3, 1996</string>
+    <string name="address">Address: 2390 Glennwood Ln, Crystal Lake IL</string>
+    <string name="allergies">Allergies: None</string>
+    <string name="mother">Relationship: Mother</string>
+    <string name="father">Relationship: Father</string>
+    <string name="contact">Emergency Contacts:</string>
+    <string name="contact1">Name: Nannette Rainer</string>
+    <string name="phone1">Phone: 923-345-5432</string>
+    <string name="contact2">Name: Chris Rainer</string>
+    <string name="phone2">Phone: 543-566-3432</string>
+</resources>
